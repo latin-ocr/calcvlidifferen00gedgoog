@@ -1,0 +1,41 @@
+44 tranuntur: .
+C A P V T III. ’
+De ufir Catuli Differnttiutr's in determinatus turturum Affinptotis. ·
+
+553 10· · 88. PROBL‚ Detetrnirutr ttjympruttposttiuaem t'u cuttu qna·
+cunqtuatgebratm ’
+
+· ' Resolutio. Quoniam asymptotus ad curuam continenter ac·
+cedens cum eadem nusquam concurrit, inpunitum contattus M .
+cogitetur abire in influittuu ‚ seu st absciffa ΑΡ, et ordinata PM ·
+cogitentur fieri infinitae, patet tangentem TM abire irtasympto·
+tum, et quantitates comitantes respettu tariabiiium x et y infini-
+tarum euanescere Si ergo e valore inuento retiae AT abician-
+tur termini nnat, inquibus neutra vanabilium rtet y continetur,
+abibit AT iu Ac, et triangulum ΑΤΕ in triangulum ACG‚ erit·
+que punctum C determinatum, per quod asymptotus ducenda
+est. Punttum alterum G determinabitur ‚' st ob triangulorum
+
+MRut‚ ono nnntuunem nat mn: mn = cn ι no, seu ¹ i
+
+du· : dy ,π CA :AG3 deinde aequatio ad curuam data differen· , t
+⁶ rietur, tc omiffis terminis, qui ob x et y infinitas euanescunt‚· ’
+
+reperiatur ratio dx r dy: fic enim determinabitur retu AG, per
+
+cuius extremum ex puntio inuento C ducenda‘est asymptotus. ι
+
+·,, 89. Corutt. Si e data ad curuam quampiam aequatione
+. puncta C et G dicto modo determinati nequeant, indicio erit
+, eiusnodi cumam non'habete asymptotum.' E. g. curu in parabo-t
+iaAT fit=x (42), stfiat rte-eoo, erit‘etiam AT ='uo‚ adeo* a
+que puntium T, quod in ea hypotheti congruit cum puntio C,
+per quod asymptotus ducenda est‚' nuspiam erit: igitur parabola .
+non habet asymptotunn '
+
+90. PROBL. Deunnnare possttonin asymptuti tn hyperbata Ι.
+
+cummuni. .
+
+ 
+
