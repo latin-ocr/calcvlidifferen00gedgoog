@@ -1,0 +1,24 @@
+LIBER PRIMUS
+De calculo D ιθεηηηαιι
+
+‘'SECTIO PRIMA.
+f · De primis Fimfflonum variabilimn Dfferentlalibus.
+
+CAPVTI.
+
+De D ffirenttahlms quantitatum varuzbiliumsx‘mplicium, aut figno -ι-
+· vel -— copulatarum.
+
+-ςφ PROBL. Difflrentiure quantitatem simplicem variabilem.
+
+Resol. Retento figno datae quantitatis variabilis pr'aefigatut ’
+
+eidem litera d: obtinebitur differentiale quaefitum.
+
+' Demonst. Quaeuis quantitas fimplex variabilis differentianda ,
+
+repraesentari potest-per x: augeatur ergo x incremento momen-
+taneo dx ., vel minuant decremento momentzmeo — dx, habe-
+bitur x -g dx ‚ vnde apseremdo x restabit differentiale quaesnum
+Σ dx (n).
+
